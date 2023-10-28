@@ -1,0 +1,27 @@
+body{
+    /* size: 500px; */
+    /* color: white; */
+    /* background: linear-gradient(76.8deg, rgb(121, 45, 129) 3.6%, rgb(36, 31, 98) 90.4%); */
+
+}
+/* 
+h1{
+    font-size: 80px ;
+    background-image: var(--rainbow-gradient,#fff);
+    background: -webkit-linear-gradient(#e1dd7d, #378a04);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
+
+/* h1 {
+    font-size: 200px;
+    background-image: var(--rainbow-gradient,#fff);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    filter: drop-shadow(0 0 2rem #000);
+    text-shadow: none!important;
+} */
